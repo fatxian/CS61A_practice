@@ -1,0 +1,7 @@
+.idea
+*/__pycache__
+.ok_*
+*.ok
+ok
+construct_check.py
+*/tests
